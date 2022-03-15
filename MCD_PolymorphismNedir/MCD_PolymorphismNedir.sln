@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_PolymorphismNedir", "MCD_PolymorphismNedir\MCD_PolymorphismNedir.csproj", "{E83E1CAD-F115-4D20-9DC1-977E1292F663}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E83E1CAD-F115-4D20-9DC1-977E1292F663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E83E1CAD-F115-4D20-9DC1-977E1292F663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E83E1CAD-F115-4D20-9DC1-977E1292F663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E83E1CAD-F115-4D20-9DC1-977E1292F663}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F443302-7DA2-429D-A306-07E7D4A377A8}
+	EndGlobalSection
+EndGlobal
