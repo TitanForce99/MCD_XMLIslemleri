@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCD_OOPKalitimUygulama2", "MCD_OOPKalitimUygulama2\MCD_OOPKalitimUygulama2.csproj", "{810AA3B2-30F4-472D-A059-B79C358D1F66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{810AA3B2-30F4-472D-A059-B79C358D1F66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810AA3B2-30F4-472D-A059-B79C358D1F66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810AA3B2-30F4-472D-A059-B79C358D1F66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810AA3B2-30F4-472D-A059-B79C358D1F66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21580615-D89F-41D3-9BF0-0B2D87B8D86A}
+	EndGlobalSection
+EndGlobal
